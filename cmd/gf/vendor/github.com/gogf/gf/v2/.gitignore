@@ -6,6 +6,7 @@
 .idea/
 .settings/
 .vscode/
+vendor/
 bin/
 **/.DS_Store
 .test/

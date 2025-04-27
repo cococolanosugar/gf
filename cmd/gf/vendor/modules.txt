@@ -1,4 +1,3 @@
-## workspace
 # aead.dev/minisign v0.2.0
 ## explicit; go 1.16
 aead.dev/minisign
@@ -52,25 +51,25 @@ github.com/go-logr/stdr
 # github.com/go-sql-driver/mysql v1.7.1
 ## explicit; go 1.13
 github.com/go-sql-driver/mysql
-# github.com/gogf/gf/contrib/drivers/clickhouse/v2 v2.9.0 => ../../contrib/drivers/clickhouse
+# github.com/gogf/gf/contrib/drivers/clickhouse/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/clickhouse/v2
-# github.com/gogf/gf/contrib/drivers/mssql/v2 v2.9.0 => ../../contrib/drivers/mssql
+# github.com/gogf/gf/contrib/drivers/mssql/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/mssql/v2
-# github.com/gogf/gf/contrib/drivers/mysql/v2 v2.9.0 => ../../contrib/drivers/mysql
+# github.com/gogf/gf/contrib/drivers/mysql/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/mysql/v2
-# github.com/gogf/gf/contrib/drivers/oracle/v2 v2.9.0 => ../../contrib/drivers/oracle
+# github.com/gogf/gf/contrib/drivers/oracle/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/oracle/v2
-# github.com/gogf/gf/contrib/drivers/pgsql/v2 v2.9.0 => ../../contrib/drivers/pgsql
+# github.com/gogf/gf/contrib/drivers/pgsql/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/pgsql/v2
-# github.com/gogf/gf/contrib/drivers/sqlite/v2 v2.9.0 => ../../contrib/drivers/sqlite
+# github.com/gogf/gf/contrib/drivers/sqlite/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/contrib/drivers/sqlite/v2
-# github.com/gogf/gf/v2 v2.9.0 => ../../
+# github.com/gogf/gf/v2 v2.9.0
 ## explicit; go 1.22
 github.com/gogf/gf/v2
 github.com/gogf/gf/v2/container/garray
@@ -398,10 +397,3 @@ modernc.org/memory
 # modernc.org/sqlite v1.23.1
 ## explicit; go 1.18
 modernc.org/sqlite/lib
-# github.com/gogf/gf/contrib/drivers/clickhouse/v2 => ../../contrib/drivers/clickhouse
-# github.com/gogf/gf/contrib/drivers/mssql/v2 => ../../contrib/drivers/mssql
-# github.com/gogf/gf/contrib/drivers/mysql/v2 => ../../contrib/drivers/mysql
-# github.com/gogf/gf/contrib/drivers/oracle/v2 => ../../contrib/drivers/oracle
-# github.com/gogf/gf/contrib/drivers/pgsql/v2 => ../../contrib/drivers/pgsql
-# github.com/gogf/gf/contrib/drivers/sqlite/v2 => ../../contrib/drivers/sqlite
-# github.com/gogf/gf/v2 => ../../
