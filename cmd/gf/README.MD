@@ -41,6 +41,12 @@ go install github.com/gogf/gf/cmd/gf/v2@latest # latest version
 go install github.com/gogf/gf/cmd/gf/v2@v2.5.5 # certain version(should be >= v2.5.5)
 ```
 
+## 3) Using nix flakes
+
+```bash
+nix profile install 'github:gogf/gf'
+```
+
 ## 2. Commands
 
 ```html

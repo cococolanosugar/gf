@@ -24,3 +24,6 @@ node_modules
 .docusaurus
 output
 .example/
+
+# Nix specific files when running 'nix build'
+result
